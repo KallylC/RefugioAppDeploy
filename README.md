@@ -1,4 +1,3 @@
-Repositório da primeira entrega da fase 1 da matéria Criar serviços web.
-Utilizando React vite.
+Repositório do projeto integrador Unifacisa. Refúgio App.
 
-Site rodando: https://react-site-unifacisa.vercel.app/
+Site rodando: https://refugio-app-deploy.vercel.app/
