@@ -1,3 +1,9 @@
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+
 logs
 *.log
 npm-debug.log*
@@ -7,6 +13,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+.pnp
+.pnp.js
+
 dist
 dist-ssr
 *.local
@@ -20,3 +29,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+Thumbs.db
